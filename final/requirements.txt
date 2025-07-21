@@ -5,5 +5,5 @@ pydub==0.25.1
 googletrans==4.0.0rc1
 Flask-Cors==4.0.0
 Werkzeug==2.3.7
-aifc
+
 
