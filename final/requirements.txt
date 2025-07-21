@@ -1,7 +1,8 @@
 Flask==2.3.3
-SpeechRecognition==3.10.1
+gunicorn==21.2.0
+speechrecognition==3.10.0
 pydub==0.25.1
 googletrans==4.0.0rc1
 Flask-Cors==4.0.0
 Werkzeug==2.3.7
-gunicorn==21.2.0
+
